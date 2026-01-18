@@ -11,7 +11,7 @@ function Home() {
         Get real-time guidance from vetted professionals while you work on your DIY project.
       </p>
 
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6VfLTLr1TVZtTZpFUNYyfEcAqhFvlAjbVFRZygrhKU3XsYQ/viewform?usp=publish-editor">
+      <a href="https://form.jotform.com/260167434511047">
         <button style={{ padding: "12px 20px", fontSize: "16px", marginRight: "10px" }}>
           Request Live DIY Help
         </button>
