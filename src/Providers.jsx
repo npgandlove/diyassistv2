@@ -92,7 +92,7 @@ function Providers() {
       {/* Footer */}
       <p style={{ marginTop: "40px", fontSize: "14px", color: "#555" }}>
         Questions? Contact us at{" "}
-        <a href="mailto:providers@thediyassist.com">
+        <a href="mailto:info@thediyassist.com">
           info@thediyassist.com
         </a>
       </p>
