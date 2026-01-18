@@ -9,7 +9,7 @@ function Providers() {
         Just your experience.
       </p>
 
-      <a href="https://forms.gle/YOUR_PROVIDER_FORM">
+      <a href="https://form.jotform.com/260168284665061">
         <button style={{ padding: "12px 20px", fontSize: "16px" }}>
           Apply to Become a Provider
         </button>
