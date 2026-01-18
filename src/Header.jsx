@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Link } from 'react-router-dom';
-import logo from './DIY Assist v10.png'; // Make sure to add your logo image file
+import logo from './diyassistv10.png'; // Make sure to add your logo image file
 
 const Header = () => {
   return (
