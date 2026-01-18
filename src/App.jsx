@@ -3,6 +3,23 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Header from "./Header";
 import Providers from "./Providers";
 
+const App = () => {
+  return (
+    <Router>
+      <div className="App">
+        <Header /> {/* This places the header at the top of all pages */}
+        <main>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/about" element={<About />} />
+            {/* Define other routes here */}
+          </Routes>
+        </main>
+      </div>
+    </Router>
+  );
+}
+
 function Home() {
   return (
     <div style={{ fontFamily: "Arial", padding: "40px", maxWidth: "900px", margin: "auto" }}>
