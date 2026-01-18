@@ -31,8 +31,7 @@ function Home() {
 
 function App() {
   return (
-    <Header />
-    <Router>
+        <Router>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/providers" element={<Providers />} />
