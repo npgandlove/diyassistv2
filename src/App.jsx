@@ -5,8 +5,9 @@ import Providers from "./Providers";
 
 function Home() {
   return (
-    <Header />
+    
     <div style={{ fontFamily: "Arial", padding: "40px", maxWidth: "900px", margin: "auto" }}>
+      <Header />
       <h1>The DIY Assist</h1>
       <h3>Live Video Help From Trusted DIY Professionals</h3>
 
