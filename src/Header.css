@@ -1,1 +1,14 @@
+app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #f5f5f5; /* Example background color */
+  border-bottom: 1px solid #ddd;
+}
 
+.app-logo {
+  height: 50px; /* Adjust size as needed */
+  width: auto;
+  cursor: pointer;
+}
